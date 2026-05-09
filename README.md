@@ -14,9 +14,12 @@ Utilisation du dataset public de référence **CICIDS2017** (Canadian Institute 
 * Volume : + de 280 000 flux réseau analysés.
 
 ##  Technologies utilisées
-* **Langage :** Python
-* **Environnement :** Jupyter Notebook (Google Colab)
-* **Librairies :** Pandas, NumPy, Scikit-Learn, Seaborn, Matplotlib
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 ##  Résultats obtenus
 * **Random Forest :** Précision de 100% avec 0 faux positif (temps d'entraînement : ~42s).
